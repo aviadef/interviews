@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sandbox", "sandbox\sandbox.vcproj", "{416609B4-E682-4B99-8E04-F90EA0C01951}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{416609B4-E682-4B99-8E04-F90EA0C01951}.Debug|Win32.ActiveCfg = Debug|Win32
+		{416609B4-E682-4B99-8E04-F90EA0C01951}.Debug|Win32.Build.0 = Debug|Win32
+		{416609B4-E682-4B99-8E04-F90EA0C01951}.Release|Win32.ActiveCfg = Release|Win32
+		{416609B4-E682-4B99-8E04-F90EA0C01951}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
